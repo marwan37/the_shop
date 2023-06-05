@@ -1,0 +1,12 @@
+{
+  "notebook.editorOptionsCustomizations": {
+
+  },
+
+  "prettier.arrowParens": "avoid",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.bracketSameLine": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.trailingComma": "none",
+}
